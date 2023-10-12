@@ -1,0 +1,7 @@
+
+
+- if , player total 21 and dealer total <21 = player win .
+- if , player total <21 and dealer total 21 = Dealer win .
+- if , player total 21 and dealer total 21 = Draw .
+
+- 
